@@ -1,12 +1,21 @@
-Quasi-geostrophic model and Test code for multiscale ensemble data assimilation methods
+**Quasi-geostrophic model and Test code for multiscale ensemble data assimilation methods**
 
-Authors: Yue (Michael) Ying, NCAR/ASP
+
+Authors: 
+
+Yue (Michael) Ying, NCAR/ASP
+
 Toy EnKF system built by Yue Ying since 2016
+
 QG model code adopted from Dr. Shafer Smith's webpage: https://cims.nyu.edu/~shafer/tools/index.html
 
+
 References:
+
 Ying, Y., F. Zhang, and J. L. Anderson, 2018: On the selection of localization radius in ensemble filtering for multiscale quasi-geostrophic dynamics. Mon. Wea. Rev., 146, 543-560.
+
 Ying, Y., 2019: A multiscale alignment method for ensemble filtering with displacement errors. Mon. Wea. Rev., accepted.
+
 
 Code description:
 
